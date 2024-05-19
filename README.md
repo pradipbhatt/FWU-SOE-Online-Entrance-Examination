@@ -1,6 +1,7 @@
 # FWU-SOE-Online-Entrance-Examination
+![Home](https://github.com/pradipbhatt/FWU-SOE-Online-Entrance-Examination/assets/84025490/3930793b-3e38-4a8e-8401-2c4a62250381)
 
-![Home Image](medias/Home.jpg)
+
 
 ## About
 A online Platform for Mock test for FWU Engineering Aspirants.
